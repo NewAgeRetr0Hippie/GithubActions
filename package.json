@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "publishConfig": {
-  "@NewAgeRetr0Hippie:registry": "https://npm.pkg.github.com"
-}
-
+    "@NewAgeRetr0Hippie:registry": "https://npm.pkg.github.com"
+  }
 }
