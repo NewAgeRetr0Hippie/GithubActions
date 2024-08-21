@@ -7,5 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+  "@NewAgeRetr0Hippie:registry": "https://npm.pkg.github.com"
+}
+
 }
